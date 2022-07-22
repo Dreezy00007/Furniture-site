@@ -1,1 +1,1 @@
-# Furniture-site is a furniture project for companies that wants to display their different furniture merchandise
+# Furniture-site is a furniture project for companies that wants to display their different furniture related merchandise
